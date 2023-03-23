@@ -1,4 +1,4 @@
-﻿namespace ПР2
+﻿namespace ПР6
 {
     internal class Program
     {
